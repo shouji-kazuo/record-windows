@@ -1,0 +1,18 @@
+{
+  "values":[
+  {
+    "process": "/hoge/fuga/piyo",
+    "x": 1,
+    "y": 2,
+    "width": 3,
+    "height": 4
+  },
+  {
+    "process": "/hoge/fuga/boke",
+    "x": 5,
+    "y": 6,
+    "width": 7,
+    "height": 8
+  }
+]
+}
